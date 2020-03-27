@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "PhD Fellow"
-  company = "Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)"
+  company = "Consejo Nacional de Investigaciones Cientificas y Tecnicas"
   company_url = ""
   location = ""
   date_start = "2013"
