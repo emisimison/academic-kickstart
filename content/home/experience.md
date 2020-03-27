@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD Fellow"
+  company = "Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = ""
+  date_start = "2013"
+  date_end = "2017"
   description = ""
 
 +++
