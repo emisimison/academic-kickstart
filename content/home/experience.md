@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Reseacrh Assistant"
+  title = "Research Assistant"
   company = "Instituto de Investigaciones Gino Germani"
   company_url = ""
   location = ""
