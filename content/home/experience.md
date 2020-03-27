@@ -24,8 +24,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019"
   date_end = ""
-  description = """
-  Responsibilities include:
   """
 
 [[experience]]
@@ -35,16 +33,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017"
   date_end = "2013"
-  description = """
 """
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Instituto de Investigaciones Gino Germani"
-  company_url = ""
-  location = ""
-  date_start = "2013"
-  date_end = "2011"
-  description = """
-  """
 +++
