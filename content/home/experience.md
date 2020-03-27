@@ -35,4 +35,12 @@ date_format = "Jan 2006"
   date_end = "2017-04-30"
   description = ""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Instituto de Investigaciones Gino Germani"
+  company_url = ""
+  location = ""
+  date_start = "2011-01-01"
+  date_end = "2013-03-31"
+
 +++
