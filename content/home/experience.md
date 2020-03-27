@@ -23,16 +23,16 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2019"
-  date_end = ""
-  description = """ """
+  date_end = "2019"
+  description = ""
 
 [[experience]]
   title = "PhD Fellow"
   company = "Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)"
   company_url = ""
-  location = "California"
-  date_start = "2017"
-  date_end = "2013"
-  description = """"""
+  location = ""
+  date_start = "2013"
+  date_end = "2017"
+  description = ""
 
 +++
