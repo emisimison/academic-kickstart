@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   date_start = "2017"
   date_end = "2013"
   description = """"""
+"""
 
 [[experience]]
   title = "Reseacrh Assistant"
