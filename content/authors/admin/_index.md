@@ -25,6 +25,7 @@ interests:
 - Political Institutions
 - Authoritarian Politics
 - Latin American Politics
+- Public Policy
 
 education:
   courses:
