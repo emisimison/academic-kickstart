@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -67,8 +67,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
  
-[content] 
- Math Camp I for incoming students, TA. Department of Political Science, MIT
 
 [advanced]
  # Custom CSS. 
