@@ -16,12 +16,12 @@
 [[main]]
   name = "Presentations"
   url = "#talks"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Teaching"
   url = "#projects"
-  weight = 40
+  weight = 30
 
 #[[main]]
 #  name = "Contact"
