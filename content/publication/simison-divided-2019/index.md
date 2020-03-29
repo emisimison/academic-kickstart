@@ -4,8 +4,9 @@ date: 2019-01-01
 publishDate: 2020-03-29T18:41:52.998713Z
 authors: ["Emilia Simison", "Lukas Wolters"]
 publication_types: ["2"]
-abstract: ""
+abstract: "Can mayors affect the electoral performance of their party beyond the municipal level? Taking advantage of a peculiar phenomenon of administrative boundaries in the province of Buenos Aires, Argentina, we assess the effect of intra-party conflict on electoral performance. Our identification strategy relies on the fact that some local entities (i.e., cities and towns) are located on the limit between two different municipalities, thus belonging to two distinct administrative units but remaining a single unit for most other purposes. Using electoral data at the polling station level for three of these localities, and differences in means and a geographic regression discontinuity design, we analyze if voters behaved differently in the 2015 gubernatorial and presidential elections in those administrative units where intra-party conflict was more salient. Our results show that intra-party conflict affects voting behavior}"
 featured: false
 publication: "*Revista SAAP*"
+url_pdf: https://revista.saap.org.ar/contenido/revista-saap-v13-n1/SAAP_13_1-simison.pdf
 ---
 
