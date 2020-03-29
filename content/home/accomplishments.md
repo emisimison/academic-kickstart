@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "(most recent)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,10 +20,10 @@ date_format = "2006"
 
 [[item]]
   organization = "Teaching and Learning Lab, MIT"
-  organization_url = ""
+  organization_url = "http://tll.mit.edu/design/kaufman-teaching-certificate-program-ktcp"
   title = "Kaufman Teaching Certificate Program (KTCP)"
   url = ""
-  certificate_url = "http://tll.mit.edu/design/kaufman-teaching-certificate-program-ktcp"
+  certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
   description = ""
@@ -41,10 +41,30 @@ date_format = "2006"
 [[item]]
   organization = "Political Science Department, MIT"
   organization_url = ""
-  title = "17.802: Quantitative Research Methods II, Causal Inference"
+  title = "17.802: Quantitative Research Methods II- Causal Inference, TA"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Political Science Department, MIT"
+  organization_url = ""
+  title = "17.115: International Political Economy, TA"
   url = ""
   certificate_url = ""
   date_start = "2018-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Argentinean Society of Political Analysis, SAAP"
+  organization_url = ""
+  title = "Introductory workshop on R for Social Science applications, Instructor"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
