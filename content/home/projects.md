@@ -66,7 +66,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+ 
+[content] 
+ Math Camp I for incoming students, TA. Department of Political Science, MIT
+
 [advanced]
  # Custom CSS. 
  css_style = ""
