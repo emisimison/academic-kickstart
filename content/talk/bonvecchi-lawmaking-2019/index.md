@@ -6,6 +6,6 @@ authors: ["Alejandro Bonvecchi", "Emilia Simison"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: ""
+location: "XIV Congreso Nacional de Ciencia Politica, SAAP-UNSAM, San Martín"
 ---
 
