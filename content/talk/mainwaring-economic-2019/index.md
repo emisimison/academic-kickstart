@@ -6,6 +6,6 @@ authors: ["Scott Mainwaring", "Emilia Simison"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: ""
+location: "Conference on Democracy in Hard Places, Harvard Kennedy School, Cambridge, MA"
 ---
 
