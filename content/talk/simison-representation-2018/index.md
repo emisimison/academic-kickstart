@@ -6,6 +6,6 @@ authors: ["Emilia Simison"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: ""
+location: "IV Meeting Legislative Studies Group, ALACIP, Mexico City"
 ---
 
