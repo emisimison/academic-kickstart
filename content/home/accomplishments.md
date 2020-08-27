@@ -18,15 +18,6 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Teaching and Learning Lab, MIT"
-  organization_url = "http://tll.mit.edu/design/kaufman-teaching-certificate-program-ktcp"
-  title = "Teaching Training: Kaufman Teaching Certificate Program (KTCP)"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-01-01"
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "Political Science Department, MIT"
