@@ -6,6 +6,7 @@ authors: ["Alejandro Bonvecchi", "Emilia Simison"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: ""
+location: "Chicago, IL"
+publication: "77th Annual MPSA Conference"
 ---
 
