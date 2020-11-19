@@ -1,12 +1,11 @@
 ---
-title: "Nation or District? Evaluating the Territorial Scope of Bills through Experimental Designs"
-date: 2017-08-01
-publishDate: 2020-03-29T18:41:52.996718Z
+title: "Supporters and Opposition in Authoritarian Legislatures"
+date: 2020-01-01
 authors: ["Emilia Simison"]
 publication_types: ["2"]
-abstract: "This paper studies the territorial scope of the bills presented by members of the Chamber of Deputies (the lower chamber of the Argentine National Congress) during Juan Domingo Perón’s first two terms in office (1946–1955). Its main objective is to observe the effect that modifying the electoral system (switching from incomplete party ballots in multimember districts to relative majorities in single-member districts) had on that scope. Experimental techniques (an interrupted time-series and a within-subjects design) are used to analyze a novel database including every bill presented in the Chamber of Deputies during the period in question. Contrary to theoretical expectations, an increase is observed in the share of bills with a territorial scope that goes beyond deputies’ districts – especially for those presented by legislators from the opposition and from larger provinces. In addition, by separately analyzing the effect on the ruling party and the opposition, the paper uncovers a plausible explanation for previous nonconclusive findings."
+abstract: "Do supporters and opposition behave differently in authoritarian legislatures? This paper examines this question by analysing legislative activity in an authoritarian regime with a multiparty legislature. Using a novel dataset on legislative activity in the Brazilian Congress during the last dictatorship (1964-1985), it finds significant differences in the topics and likelihood of enactment of the bills introduced by pro-government and anti-government legislators. Pro-government legislators introduced more bills dealing with local issues and were rewarded for their loyalty by being more likely to pass their bills. In contrast, legislators from the opposition introduced more bills dealing with national economic issues, which were less likely to be enacted."
 featured: false
-publication: "*Journal of Politics in Latin America*"
-url_pdf: "https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1058"
+publication: "*Journal of Legislative Studies*"
+url_pdf: "https://doi.org/10.1080/13572334.2020.1847375"
 ---
 
