@@ -1,11 +1,10 @@
 ---
-title: "Law-Making and Federalism in Argentina’s Last Dictatorship"
+title: "Experimentos en las Ciencias Sociales"
 date: 2020-01-01
-publishDate: 2020-03-29T18:41:52.997716Z
-authors: ["Alejandro Bonvecchi", "Emilia Simison"]
+authors: ["Emilia Simison"]
 publication_types: ["6"]
-abstract: "This edited volume provides a comprehensive overview of the renewal of academic engagement in the Argentinian dictatorship in the context of the post-2001 crisis. Significant social and judicial changes and the opening of archives have led to major revisions of the research dedicated to this period. As such, the contributors offer a unique presentation to an English-speaking audience, mapping and critiquing these developments and widening the recent debates in Argentina about the legacy of the dictatorship in this long-term perspective."
+abstract: "La complejidad que caracteriza a las sociedades actuales desafía al investigador de las disciplinas que integran las ciencias sociales: los tipos de conflictos, las transformaciones que operan en el interior de los conjuntos sociales y su diversidad interpelan a quienes estudian estos fenómenos. Orientado a los jóvenes que se inician en el camino de la investigación social o a quienes ya se desenvuelven en él, este libro propone una serie de herramientas útiles que comienzan con una clarificadora caracterización de las ciencias sociales, su método y la diferencia con las disciplinas de las llamadas ciencias duras. Además, los distintos capítulos abordan problemas como las condiciones de producción y validación del conocimiento científico o el desafío de conceptualizar, clasificar y comparar en la investigación social. A su vez, propone guías para un proyecto concreto. Por último también se afronta la discusión sobre los diferentes métodos que se utilizan para producir datos, evaluar hipótesis y teorías y responder preguntas: cualitativos, comparativos, cuantitativos y mixtos."
 featured: false
-publication: "*The Argentinian Dictatorship and its Legacy: Rethinking the Proceso*"
+publication: "*Metodología de la investigación social: Caja de herramientas*"
 ---
 
