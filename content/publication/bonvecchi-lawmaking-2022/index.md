@@ -1,11 +1,11 @@
 ---
-title: "Supporters and Opposition in Authoritarian Legislatures"
-date: 2020-12-20
+title: "Lawmaking in personalist dictatorships: evidence from Spain"
+date: 2022-05-12
 authors: ["Emilia Simison"]
 publication_types: ["2"]
-abstract: "Do supporters and opposition behave differently in authoritarian legislatures? This paper examines this question by analysing legislative activity in an authoritarian regime with a multiparty legislature. Using a novel dataset on legislative activity in the Brazilian Congress during the last dictatorship (1964-1985), it finds significant differences in the topics and likelihood of enactment of the bills introduced by pro-government and anti-government legislators. Pro-government legislators introduced more bills dealing with local issues and were rewarded for their loyalty by being more likely to pass their bills. In contrast, legislators from the opposition introduced more bills dealing with national economic issues, which were less likely to be enacted."
+abstract: "How does lawmaking work in personalist dictatorships? Assuming that legislative institutions established within power-sharing arrangements become costly for dictators to ignore and are consequently likely to affect lawmaking processes and outcomes, we argue that while legislatures in personalist dictatorships may approve most government initiatives, they can affect lawmaking via amendments, which signal factional disagreement and may prompt dictators to kill their own bills. We test this argument by analysing the performance of the Cortes under Franco’s regime in Spain. We find that while its members intervened only in a share of the legislative agenda, and rarely rejected government bills, they still introduced many consequential amendments that reduced the likelihood of bill enactment."
 featured: false
 publication: "*Journal of Legislative Studies*"
-url_pdf: "https://doi.org/10.1080/13572334.2020.1847375"
+url_pdf: "https://doi.org/10.1080/13572334.2021.2015885"
 ---
 
