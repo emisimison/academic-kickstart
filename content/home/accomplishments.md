@@ -18,6 +18,15 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Political Science Department, MIT"
+  organization_url = ""
+  title = "Quantitative Research Methods I: Regression, TA"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Political Science Department, MIT"
@@ -26,13 +35,13 @@ date_format = "2006"
   url = ""
   certificate_url = ""
   date_start = "2019-03-01"
-  date_end = "2020-09-01"
+  date_end = "2021-09-01"
   description = ""
   
 [[item]]
   organization = "Political Science Department, MIT"
   organization_url = ""
-  title = "17.802: Quantitative Research Methods II- Causal Inference, TA"
+  title = "Quantitative Research Methods II- Causal Inference, TA"
   url = ""
   certificate_url = ""
   date_start = "2019-01-01"
@@ -42,7 +51,7 @@ date_format = "2006"
 [[item]]
   organization = "Political Science Department, MIT"
   organization_url = ""
-  title = "17.115: International Political Economy, TA"
+  title = "International Political Economy, TA"
   url = ""
   certificate_url = ""
   date_start = "2018-07-01"
