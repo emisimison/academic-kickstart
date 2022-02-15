@@ -74,4 +74,4 @@ email: ""
 
 Hi! I am a PhD candidate in Political Science at MIT, with focus on Political Economy and Methodology. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my dissertation explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime changes.
 
-I received a MA in Political Science from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA). Prior to MIT, I was a Ph.D. fellow at CONICET working at Gino Germani Research Institute, and taught at UBA and UTDT.
+I received a MA in Political Science from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA). Prior to MIT, I was a PhD fellow at CONICET working at Gino Germani Research Institute, and taught at UBA and UTDT.
