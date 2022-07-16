@@ -18,7 +18,7 @@ organizations:
   url: "https://polisci.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Political Science at MIT, with focus on Political Economy and Methods
+bio: Postdoctoral Fellow at CIPR, Tulane. PhD in Political Science (MIT).
 
 interests:
 - Political Economy
@@ -72,6 +72,6 @@ email: ""
 # - Visitors
 ---
 
-Hi! I am a PhD candidate in Political Science at MIT, with focus on Political Economy and Methodology. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my dissertation explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime changes.
+Hi! I am a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) in Tulane. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my dissertation explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions.
 
-I received a MA in Political Science from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA). Prior to MIT, I was a PhD fellow at CONICET working at Gino Germani Research Institute, and taught at UBA and UTDT.
+I hold a PhD in Political Science from MIT, where I focused on Political Economy and Methodology. I also received a MA from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA), both in Political Science. Prior to MIT, I was a PhD fellow at CONICET working at Gino Germani Research Institute, and taught at UBA and UTDT.
