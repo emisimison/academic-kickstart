@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow, CIPR, Tulane 
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: Massachusetts Institute of Technology
-    year: 2022 (Expected)
+    year: 2022
   - course: MA in Political Science
     institution: Universidad Torcuato Di Tella
     year: 2015
