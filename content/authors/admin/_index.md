@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow, CIPR, Tulane 
+role: Postdoctoral Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://polisci.mit.edu/"
+- name: CIPR, Tulane University
+  url: "https://stonecenter.tulane.edu/cipr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Fellow at CIPR, Tulane. PhD in Political Science (MIT).
