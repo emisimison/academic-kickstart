@@ -11,7 +11,7 @@ subtitle = ""
 content =
 
 # Automatically link email and phone?
-  autolink = true
+ # autolink = true
 
 
   email= "esimison@tulane.edu"
