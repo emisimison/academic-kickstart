@@ -11,17 +11,24 @@ subtitle = ""
 content =
 
 # Automatically link email and phone?
- # autolink = true
+  autolink = true
 
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 
   email= "esimison@tulane.edu"
   address=
-      street= "7025 Freret Street"
-      city= "New Orleans"
-      region= "LA"
-      postcode= "70118"
-      country= "United States"
-      country_code= "US"
+     street= "7025 Freret Street"
+     city= "New Orleans"
+     region= "LA"
+     postcode= "70118"
+     country= "United States"
+     country_code= "US"
 
 # Email form provider
 #   0: Disable email form
