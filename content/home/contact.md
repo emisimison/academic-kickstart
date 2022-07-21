@@ -11,6 +11,15 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = true
 
+email: esimison@tulane.edu
+address:
+    street: 7025 Freret Street
+    city: New Orleans
+    region: LA
+    postcode: '70118'
+    country: United States
+    country_code: US
+
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
