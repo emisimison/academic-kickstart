@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "simison@mit.edu"
+email = "esimison@tulane.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "30 Wadsworth Street E53-470", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
+address = {street = "7025 Freret Street", city = "New Orleans", region = "LA", postcode = "70118", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
