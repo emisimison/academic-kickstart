@@ -13,14 +13,15 @@ content =
 # Automatically link email and phone?
   autolink = true
 
-  email: "esimison@tulane.edu"
-  address:
-      street: "7025 Freret Street"
-      city: "New Orleans"
-      region: "LA"
-      postcode: "70118"
-      country: "United States"
-      country_code: "US"
+
+  email= "esimison@tulane.edu"
+  address=
+      street= "7025 Freret Street"
+      city= "New Orleans"
+      region= "LA"
+      postcode= "70118"
+      country= "United States"
+      country_code= "US"
 
 # Email form provider
 #   0: Disable email form
