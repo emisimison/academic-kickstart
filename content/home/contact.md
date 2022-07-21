@@ -8,27 +8,6 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-content =
-
-# Automatically link email and phone?
-  autolink = true
-
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-  email= "esimison@tulane.edu"
-  address=
-     street= "7025 Freret Street"
-     city= "New Orleans"
-     region= "LA"
-     postcode= "70118"
-     country= "United States"
-     country_code= "US"
 
 # Email form provider
 #   0: Disable email form
