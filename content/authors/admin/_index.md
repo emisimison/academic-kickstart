@@ -69,9 +69,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
-# - Visitors
+# - Visitors # For links> [text](url)
 ---
-# For links> [text](url)
 
 Hi! I am a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my dissertation explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions.
 
