@@ -6,6 +6,6 @@ authors: ["Candelaria Garay", "Emilia Simison"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-location: "2021 REPAL COnference, Virtual Meeting"
+location: "2021 REPAL Conference, Virtual Meeting"
 ---
 
