@@ -8,6 +8,6 @@ editable: false
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "© 2020 Emilia Simison"
+  caption: ""
   image: ""
 ---
