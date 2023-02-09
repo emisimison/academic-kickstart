@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: CIPR, Tulane University
-  url: "https://cipr.tulane.edu"
+  url: "https://cipr.tulane.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Fellow at CIPR, Tulane. PhD in Political Science (MIT).
