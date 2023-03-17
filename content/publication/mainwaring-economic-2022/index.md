@@ -1,0 +1,11 @@
+---
+title: "Economic Crises, Military Rebellions, and Democratic Survival: Argentina, 1983-2020"
+date: 2022-08-01
+authors: ["Scott Mainwaring", "Emilia Simison"]
+publication_types: ["6"]
+abstract: "In Democracy in Hard Places, Scott Mainwaring and Tarek Masoud bring together a distinguished cast of contributors to illustrate how democracies around the world continue to survive even in an age of democratic decline. Collectively, they argue that we can learn much from democratic survivals that were just as unexpected as the democratic erosions that have occurred in some corners of the developed world. Just as social scientists long believed that well-established, Western, educated, industrialized, and rich democracies were immortal, so too did they assign little chance of democracy to countries that lacked these characteristics. And yet, in defiance of decades of social science wisdom, many countries that were bereft of these hypothesized enabling conditions for democracy not only achieved it, but maintained it year after year. How does democracy persist in countries that are ethnically heterogenous, wracked by economic crisis, and plagued by state weakness? What is the secret of
+democratic longevity in hard places?"
+featured: false
+publication: "*Democracy in Hard Places*"
+---
+
