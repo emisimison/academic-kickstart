@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow 
+role: Lecturer in Latin American Politics 
 
 # Organizations/Affiliations
 organizations:
-- name: CIPR, Tulane University
-  url: "https://cipr.tulane.edu/"
+- name: School of Politics and International Relations, Queen Mary University of London
+  url: "https://www.qmul.ac.uk/politics/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Fellow at CIPR, Tulane. PhD in Political Science (MIT).
+bio: Lecturer (Assistant Professor) in Latin American Politics at Queen Mary University of London. PhD in Political Science (MIT).
 
 interests:
 - Political Economy
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:esimison@tulane.edu".
+  link: '#contact'  # For a direct email link, use "mailto:e.simison@qmul.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/emisimison
@@ -72,8 +72,8 @@ email: ""
 # - Visitors # For links> [text](url)
 ---
 
-Hi! I am a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my book project (based on my [PhD dissertation](https://dspace.mit.edu/handle/1721.1/147254)) explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions.
+Hi! I am a Lecturer (Assistant Professor) in Latin American Politics at Queen Mary University of London. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my book project (based on my [PhD dissertation](https://dspace.mit.edu/handle/1721.1/147254)) explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions.
 
-I hold a PhD in Political Science from the Massachusetts Institute of Technology (MIT), where I specialized in Comparative Political Economy and Methodology. I also received an MA from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA), both in Political Science. Prior to MIT, I was a PhD fellow at CONICET working at Gino Germani Research Institute, and taught at UBA and UTDT.
+I hold a PhD in Political Science from the Massachusetts Institute of Technology (MIT), where I specialized in Comparative Political Economy and Methodology. I also received an MA from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA), both in Political Science. I was a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University (2022-2023) and a PhD fellow at CONICET working at Gino Germani Research Institute. 
 
 I co-organize the [Authoritarian Political Systems Group](https://apsg.work/).
