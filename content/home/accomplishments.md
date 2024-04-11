@@ -19,6 +19,26 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "School of Politics and International Relations, QMUL"
+  organization_url = ""
+  title = "Latin American Politics (Module Convenor)"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-01-02"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "School of Politics and International Relations, QMUL"
+  organization_url = ""
+  title = "Political Analysis (Seminars Instructor)"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-01-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Political Science Department, MIT"
   organization_url = ""
   title = "Science, Technology, and Public Policy (TA)"
