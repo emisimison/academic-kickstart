@@ -1,11 +1,12 @@
 ---
-title: "Supporters and Opposition in Authoritarian Legislatures"
-date: 2020-12-20
-authors: ["Emilia Simison"]
-publication_types: ["2"]
-abstract: "Do supporters and opposition behave differently in authoritarian legislatures? This paper examines this question by analysing legislative activity in an authoritarian regime with a multiparty legislature. Using a novel dataset on legislative activity in the Brazilian Congress during the last dictatorship (1964-1985), it finds significant differences in the topics and likelihood of enactment of the bills introduced by pro-government and anti-government legislators. Pro-government legislators introduced more bills dealing with local issues and were rewarded for their loyalty by being more likely to pass their bills. In contrast, legislators from the opposition introduced more bills dealing with national economic issues, which were less likely to be enacted."
+title: "Lawmaking under Authoritarianism. Factions, Institutions, and Outcomes Across Dictatorships"
+date: 2026-02-20
+authors: ["Alejandro Bonvecchi", "Emilia Simison"]
+publication_types: ["5"]
+abstract: "Why are legislatures in some authoritarian regimes more powerful than others? Why does influence on policies and politics vary across dictatorships? To answer these questions, Lawmaking under Authoritarianism extends the power-sharing theory of authoritarian government to argue that autocracies with balanced factional politics have more influential legislatures than regimes with unbalanced or unstable factional politics. Where factional politics is balanced, autocracies have reviser legislatures that amend and reject significant shares of executive initiatives and are able to block or reverse policies preferred by dictators. When factional politics is unbalanced, notary legislatures may amend executive bills but rarely reject them, and regimes with unstable factional politics oscillate between these two extremes. Lawmaking under Authoritarianism employs novel datasets based on extensive archival research to support these findings, including strong qualitative case studies for past dictatorships in Argentina, Brazil, and Spain."
 featured: false
-publication: "*Journal of Legislative Studies*"
-url_pdf: "https://doi.org/10.1080/13572334.2020.1847375"
+publication: "Cambridge University Press"
+url_custom: [{name = web, url = "https://www.cambridge.org/core/books/lawmaking-under-authoritarianism/CDECFDB88B6A43F207192CF84DD347D8"}]
 ---
+
 
