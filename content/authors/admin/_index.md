@@ -14,7 +14,7 @@ role: Lecturer in Latin American Politics
 
 # Organizations/Affiliations
 organizations:
-- name: School of Politics and International Relations, Queen Mary University of London
+- name: Department of Sociology, Politics and International Relations, Queen Mary University of London
   url: "https://www.qmul.ac.uk/politics/index.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,7 +72,7 @@ email: ""
 # - Visitors # For links> [text](url)
 ---
 
-Hi! I am a Lecturer (Assistant Professor) in Latin American Politics at Queen Mary University of London. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my book project (based on my [PhD dissertation](https://dspace.mit.edu/handle/1721.1/147254)) explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions.
+Hi! I am a Lecturer (Assistant Professor) in Latin American Politics at Queen Mary University of London. My research focuses on the comparative political economy of policymaking and policy change. Using qualitative and quantitative methods, I  analyze how political institutions across regime types shape the extent to which citizens and interest groups influence policymaking, and how that affects policy outputs. As part of this research agenda, my book *Policy in Transition. How regime change affects policymaking* (forthcoming with Cambridge University Press) explores the relationship between regime types and public policies to better understand how, and under which conditions, policy change takes place as a consequence of regime type transitions. I am also the co-author of [*Lawmaking under Authoritarianism. Factions, Institutions, and Outcomes Across Dictatorships*](https://www.cambridge.org/core/books/lawmaking-under-authoritarianism/CDECFDB88B6A43F207192CF84DD347D8)
 
 I hold a PhD in Political Science from the Massachusetts Institute of Technology (MIT), where I specialized in Comparative Political Economy and Methodology. I also received an MA from Torcuato Di Tella University (UTDT) and a BA from the University of Buenos Aires (UBA), both in Political Science. I was a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University (2022-2023) and a PhD fellow at CONICET working at Gino Germani Research Institute. 
 
