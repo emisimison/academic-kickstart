@@ -1,11 +1,12 @@
 ---
-title: "Supporters and Opposition in Authoritarian Legislatures"
-date: 2020-12-20
-authors: ["Emilia Simison"]
-publication_types: ["2"]
-abstract: "Do supporters and opposition behave differently in authoritarian legislatures? This paper examines this question by analysing legislative activity in an authoritarian regime with a multiparty legislature. Using a novel dataset on legislative activity in the Brazilian Congress during the last dictatorship (1964-1985), it finds significant differences in the topics and likelihood of enactment of the bills introduced by pro-government and anti-government legislators. Pro-government legislators introduced more bills dealing with local issues and were rewarded for their loyalty by being more likely to pass their bills. In contrast, legislators from the opposition introduced more bills dealing with national economic issues, which were less likely to be enacted."
-featured: false
-publication: "*Journal of Legislative Studies*"
-url_pdf: "https://doi.org/10.1080/13572334.2020.1847375"
+title: "Cómo gobernó la dictadura. Facciones, instituciones y políticas en el Proceso de Reorganización Nacional (1976-1983)"
+date: 2026-03-01
+authors: ["Alejandro Bonvecchi", "Emilia Simison"]
+publication_types: ["5"]
+abstract: "La visión que predomina sobre la última dictadura militar afirma que el presidente de facto –Videla y quienes lo sucedieron– tenía la primacía de las decisiones políticas, mientras el ministro de Economía, José Alfredo Martínez de Hoz, concentraba todas las estrategias económicas. Alejandro Bonvecchi y Emilia Simison, los autores de este libro indispensable, prueban que la evidencia empírica refuta esta visión simplificada. Cómo gobernó la dictadura muestra el funcionamiento real de la toma de decisiones en el régimen autoritario. Y demuestra, con evidencia empírica inédita, cómo las reglas y las prácticas del poder compartido condenaron al fracaso todos los proyectos de la dictadura."
+featured: true
+publication: "Edhasa"
+url_custom: [{name = web, url = "https://www.edhasa.com.ar/product/como-goberno-la-dictadura/"}]
 ---
+
 
