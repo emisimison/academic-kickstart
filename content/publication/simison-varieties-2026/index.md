@@ -1,13 +1,12 @@
 ---
-title: "Distribuyendo transferencias discrecionales: Argentina entre la centralización fiscal y la desnacionalización del sistema de partidos"
-date: 2015-05-01
-publishDate: 2020-03-29T18:41:52.994724Z
+title: "Varieties of Authoritarian Policymaking: Housing Policy Across Dictatorships"
+date: 2026-04-27
 authors: ["Emilia Simison"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Revista SAAP*"
-abstract: "The aim of this article is to identify which variables explain the allocation of discretionary intergovernmental transfers in contexts characterized by fiscal centralization and party system denationalization. To achieve this objective, hypotheses derived from three sets of answers identified in the literature—equity considerations, structural characteristics which increase the subnational unit bargaining power and the national government strategic behavior in relation to subnational governments— are tested using data from the Argentine in the 2002-2011 period. The relevance of the case comes from the particularities of Argentine fiscal federalism, the great variation in the amount received by the subnational units and from the way in which the period characteristics impacted on the political actors incentives. Thus, the article studies the whole set of discretionary transfers during a period not yet systematically studied and finds that its distribution is mainly explained by the national government strategic considerations."
-url_pdf: https://www.redalyc.org/pdf/3871/387142733005.pdf
+publication: "*Governance*"
+abstract: "Public policies are expected to vary across regime types, but this association remains inconclusive even when further differentiating within types of authoritarian regimes. Focusing on the theoretical mechanisms behind the expected associations between regime type and policy, I propose a novel framework to analyze policymaking and outputs across regimes. I claim that policymaking and how close its results are from the dictator's goal in any authoritarian regime depends on the extent and ways in which the space for contestation over policy is constrained. I apply this framework to an in-depth historical comparative analysis of policymaking and outputs in three Latin American military-led regimes. I show that differences in how the space for contestation was constrained in each explains differences in their policymaking processes and resulting policies despite the shared regime type, policy challenges and goals."
+url_pdf: [https://www.redalyc.org/pdf/3871/387142733005.pdf](https://doi.org/10.1111/gove.70131)
 ---
 
