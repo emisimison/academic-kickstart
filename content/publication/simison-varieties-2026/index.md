@@ -1,12 +1,13 @@
 ---
-title: "Legislatures and Representation in Latin American Politics"
-date: 2019-09-01
-publishDate: 2020-03-29T18:41:53.000707Z
+title: "Distribuyendo transferencias discrecionales: Argentina entre la centralización fiscal y la desnacionalización del sistema de partidos"
+date: 2015-05-01
+publishDate: 2020-03-29T18:41:52.994724Z
 authors: ["Emilia Simison"]
-publication_types: ["6"]
-abstract: "The variation offered by Latin American legislatures makes them empirically and theoretically relevant to the field of legislative studies. Since the 1980s, the study of these legislatures has experienced significant growth, widening the range of topics covered and the territorial scope of the analysis. Legislative-executive relations, elections and careers, and legislative behavior continue to be the most studied topics. In addition, by the 2010s a greater number of empirical analyses have made use of cross-national comparisons of the region and studied both subnational legislatures and how internal processes and institutions shape legislative outcomes. This academic interest still coexists with a low level of citizen confidence in the legislatures, which are considered to be ineffective in policymaking. In between lies representation. Its study has attracted increased attention in a context of significant changes in descriptive representation in the region, such as the increased presence of women and minorities in legislative bodies. Taking this into account, substantive representation and its limits have been analyzed in terms of (a) the representation of women, minorities, and social classes; (b) bills’ territorial scope and subnational influences; and (c) how legislative organization impacts representation. This connection between citizens and congress members affects citizens’ perceptions of congresses as well as other democratic institutions. Despite its policy implications, this connection is still understudied, as are issues such as interest representation, amendments, and legislative speeches."
+publication_types: ["2"]
+abstract: ""
 featured: false
-publication: "*Oxford Research Encyclopedia of Politics*"
-doi: "10.1093/acrefore/9780190228637.013.1686"
+publication: "*Revista SAAP*"
+abstract: "The aim of this article is to identify which variables explain the allocation of discretionary intergovernmental transfers in contexts characterized by fiscal centralization and party system denationalization. To achieve this objective, hypotheses derived from three sets of answers identified in the literature—equity considerations, structural characteristics which increase the subnational unit bargaining power and the national government strategic behavior in relation to subnational governments— are tested using data from the Argentine in the 2002-2011 period. The relevance of the case comes from the particularities of Argentine fiscal federalism, the great variation in the amount received by the subnational units and from the way in which the period characteristics impacted on the political actors incentives. Thus, the article studies the whole set of discretionary transfers during a period not yet systematically studied and finds that its distribution is mainly explained by the national government strategic considerations."
+url_pdf: https://www.redalyc.org/pdf/3871/387142733005.pdf
 ---
 
